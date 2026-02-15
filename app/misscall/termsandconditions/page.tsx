@@ -77,6 +77,22 @@ export default function TermsAndConditionsPage() {
 									AdMob
 								</a>
 							</li>
+							<li>
+								<a
+									className="font-semibold text-zinc-900 underline underline-offset-4"
+									href="https://www.google.com/analytics/terms/"
+								>
+									Google Analytics for Firebase
+								</a>
+							</li>
+							<li>
+								<a
+									className="font-semibold text-zinc-900 underline underline-offset-4"
+									href="https://firebase.google.com/terms/crashlytics"
+								>
+									Firebase Crashlytics
+								</a>
+							</li>
 						</ul>
 					</div>
 					<p>

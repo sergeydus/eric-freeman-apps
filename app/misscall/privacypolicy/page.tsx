@@ -146,6 +146,22 @@ export default function PrivacyPolicyPage() {
                   AdMob
                 </a>
               </li>
+              <li>
+                <a
+                  className="font-semibold text-zinc-900 underline underline-offset-4"
+                  href="https://firebase.google.com/support/privacy"
+                >
+                  Google Analytics for Firebase
+                </a>
+              </li>
+              <li>
+                <a
+                  className="font-semibold text-zinc-900 underline underline-offset-4"
+                  href="https://firebase.google.com/support/privacy"
+                >
+                  Firebase Crashlytics
+                </a>
+              </li>
             </ul>
           </div>
           <p>The Service Provider may disclose User Provided and Automatically Collected Information:</p>
